@@ -1,4 +1,4 @@
-# comp7409
+# COMP7409
 HKU Comp7409 ML in finance
 
 ## Possible topic:
@@ -11,7 +11,7 @@ HKU Comp7409 ML in finance
   - Finetune a version of BERT
   - Bi-LSTM + GLoVe/CBOW
 
-Trading bot with reinforcement learning
+- Trading bot with reinforcement learning
   - Limit to SPX500?
   - With fundamental and technical analysis as heuristics
 
