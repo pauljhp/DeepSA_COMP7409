@@ -1,22 +1,10 @@
 # COMP7409
 HKU Comp7409 ML in finance
+[!image](https://github.com/pauljhp/DeepSA_COMP7409/blob/main/project_outline.drawio.png)
 
-## Possible topic:
+## Sentiment analysis outline
+  - Use FinBERT for sentiment analysis
+  - Concat with earnings/price series for prediction
 
-- (Fundamental) Financial forecasting with ML
-  - Time series fundamental financial data forecast with LSTM/transformer;
-  - Stock return prediction with both historical and fundamental data (Conv1d + LSTM + dense layers)
-
-- Sentiment Analysis
-  - Finetune a version of BERT
-  - Bi-LSTM + GLoVe/CBOW
-
-- Trading bot with reinforcement learning
-  - Limit to SPX500?
-  - With fundamental and technical analysis as heuristics
-
-- Option pricing with deep learning
-  - Not much experience with option pricing but open to suggestions. 
-
-- Financial fraud detection by ML
-  - What dataset to use? Enron data?
+## Data source:
+- FinancialModelingPrep
